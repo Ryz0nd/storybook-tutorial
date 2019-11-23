@@ -7,6 +7,9 @@ export default {
     title: 'components|basic/Hello',
     component: Hello,
     decorators: [withKnobs],
+    parameters: {
+        componentSubtitle: '"안녕하세요"라고 보여주는 컴포넌트'
+    }
 };
 
 export const hello = () => {
