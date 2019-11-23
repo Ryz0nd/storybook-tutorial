@@ -1,0 +1,14 @@
+{
+  "name": "storybook-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ryz0nd/storybook-tutorial.git",
+  "author": "Ryz0nd <ryzond6728@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  }
+}
