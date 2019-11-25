@@ -26,6 +26,7 @@
     "build-storybook": "build-storybook"
   },
   "peerDependencies": {
-    "@emotion/core": "^10.0.22"
+    "@emotion/core": "^10.0.22",
+    "react-spring": "^8.0.27"
   }
 }
